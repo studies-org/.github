@@ -2,7 +2,7 @@
 
 Estudos, labs e certificações.
 
-## Padrão de nomes
+## Padrão de nomenclatura
 
 | Tipo | Padrão |
 |------|--------|
