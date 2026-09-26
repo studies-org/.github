@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,nextjs,threejs,fastapi,md" alt="Stacks" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,linux,flask,mysql,nextjs,threejs,fastapi,md" alt="Stacks" />
   </a>
 </p>
 
@@ -33,6 +33,8 @@ Cada repositório é um estudo com material próprio, exercícios e, quando faz 
 | Repositório | O que é |
 |---|---|
 | [studies-lab-terraform-modules](https://github.com/studies-org/studies-lab-terraform-modules) | Biblioteca de **módulos Terraform** para a AWS, feita em dupla, começando pelo `infra-base` (VPC, subnet pública, Internet Gateway e route table) |
+| [studies-lab-multicloud-terraform](https://github.com/studies-org/studies-lab-multicloud-terraform) | Site estático atrás de **load balancer na AWS e na Azure**, com módulos Terraform simétricos nas duas nuvens e simulação local |
+| [studies-lab-docker-microservices](https://github.com/studies-org/studies-lab-docker-microservices) | **Microserviços Flask** de itens, lojas, pedidos e pagamentos com **Docker Compose**, um MySQL por serviço e painel web |
 
 ### Estudos
 
@@ -51,6 +53,16 @@ Cada repositório é um estudo com material próprio, exercícios e, quando faz 
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/studies-org/studies-cert-aws-ai-practitioner/main/docs/study-flow.gif" alt="Fluxo de estudo: aula, exercícios, correção pelo tutor, placar e exame" /><br>
       <sub><b>AWS AI Practitioner</b> · fluxo de estudo</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/studies-org/studies-lab-multicloud-terraform/main/docs/arch.gif" alt="Site estático com load balancer na AWS e na Azure provisionado por Terraform" /><br>
+      <sub><b>Lab multicloud</b> · AWS e Azure</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/studies-org/studies-lab-docker-microservices/main/docs/arch.gif" alt="Painel nginx, quatro microserviços Flask e um MySQL por serviço" /><br>
+      <sub><b>Lab microserviços</b> · Docker Compose</sub>
     </td>
   </tr>
 </table>
